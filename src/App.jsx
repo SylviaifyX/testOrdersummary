@@ -1,13 +1,8 @@
-import Order from "./components/Order/order"
-import './App.css';
-
+import Order from "./components/Order/order";
+import "./App.css";
 
 function App() {
-    return (
-        <>
-            <Order/>
-        </>
-    );
+  return <Order />;
 }
 
 export default App;
